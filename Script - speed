@@ -48,3 +48,7 @@ Section:NewSlider("speed", "SliderInfo", 500, 0, function(s) -- 5000000 (Мак�
     game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = s
 end)
 
+-- Слайдер
+Section:NewSlider("JumpPower", "SliderInfo", 500, 0, function(s) -- 5000000 (Макс. значение) | 0 (Мин. значение)
+    game.Players.LocalPlayer.Character.Humanoid.JumpPower = s
+end)
