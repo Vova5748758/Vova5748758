@@ -1,6 +1,7 @@
 **RUSSIAN 
 советую использовать pastebin достаточно понятен в использовании 
 чтобы сделать loadstring сыллку используйте этот шаблон 
+
 --------
 
 loadstring(game:HttpGet("ваша сыллка"))()
@@ -13,9 +14,13 @@ loadstring(game:HttpGet("ваша сыллка"))()
 **ENGLISH 
 I recommend using pastebin, it's pretty easy to useI recommend using pastebin, it's pretty easy to use
 to make a loadstring link, use this template
+
 --------
 
 loadstring(game:HttpGet("your link"))()
 
 --------
+
+more details at https://youtu.be/d8mJAo8KXyE?si=sVjBjOiUHN3Xd2RH (NOT THE AUTHOR!!!!)
+
 details on hffh65910@gmail.com
