@@ -28,7 +28,7 @@ end)
 --скрипт от CDTY0898 
 -----------
 
-можите использовать другие библиотеки --  https://github.com/topics/roblox-ui-lib  --
+можете использовать другие библиотеки --  https://github.com/topics/roblox-ui-lib  --
 
 
 **ENGLISH 
