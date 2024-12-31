@@ -28,6 +28,8 @@ end)
 --скрипт от CDTY0898 
 -----------
 
+можите использовать другие библиотеки --  https://github.com/topics/roblox-ui-lib  --
+
 
 **ENGLISH 
 I recommend using pastebin, it's pretty easy to useI recommend using pastebin, it's pretty easy to use
@@ -60,3 +62,5 @@ end)
 
 --script from CDTY0898 
 -----------
+
+you can use other libraries -- https://github.com/topics/roblox-ui-lib --
